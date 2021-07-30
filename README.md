@@ -1,8 +1,11 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hwikyung%20Yoon&fontColor=ffffff&fontSize=80&animation=twinkling)
 
+  
+### 🙋‍♀️ Hello, It's Hwikyung :)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonHwikyung&count_bg=%2393D500&title_bg=%23A7A7A7&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-### Hi there 👋
 
 <!--
 **YoonHwikyung/YoonHwikyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jQuery-9c8562?style=flat-square&logo=jQuery&logoColor=white"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonHwikyung&&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonHwikyung&&show_icons=true&theme=flag-india)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonHwikyung&count_bg=%23C1C3C0&title_bg=%239FE1C2&icon=&icon_color=%23A58585&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
